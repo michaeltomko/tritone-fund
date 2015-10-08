@@ -1353,7 +1353,7 @@
 	#header-wrapper {
 		position: relative;
 		overflow: hidden;
-		background: url("../../images/pic01.jpg");
+		background: url("../../images/saint-louis.jpg");
 		background-size: cover;
 		background-position: top center;
 		z-index: 1;
@@ -1740,7 +1740,7 @@
 		/* Nav */
 
 			#nav {
-				display: block;
+				display: none;
 				position: absolute;
 				top: 0;
 				left: 0;
